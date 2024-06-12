@@ -1,0 +1,8 @@
+/* src/components/FDItem.css */
+.fd-item {
+  background-color: #3b82f6;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+}
